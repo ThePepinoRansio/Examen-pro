@@ -1,0 +1,4 @@
+Sudo touch 01-RUN.sh
+Sudo nano 01-RUN.sh 
+echo Hola mundo!
+sh 01-RUN.sh
